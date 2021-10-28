@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"playerID","STRING","10","0","0"
+"award","STRING","38","0","0"
+"year","INTEGER","4","4","0"
+"lgID","STRING","4","0","0"
+"note","STRING","3","0","0"
+"pos","STRING","5","0","0"
+"name","STRING","17","0","0"

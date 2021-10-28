@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"year","INTEGER","4","4","0"
+"tmID","STRING","3","0","0"
+"lgID","STRING","4","0","0"
+"W","INTEGER","1","1","0"
+"L","INTEGER","1","1","0"
